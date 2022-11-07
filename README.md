@@ -1,4 +1,4 @@
-I am a Full-Stack Developer. I've been working with TrakInvest since 2021, and my responsibilities include 
+I am a Software Engineer/Developer. I have previously worked with Cognizant, TrakInvest, VedaInfo and Infosys with an overall experience of 3 years and 2 months. As of now I have been working with CargoFL for the past 2 months, and my responsibilities include
 
 1) Helping with the design and development of software
 2) Testing and debugging software to keep it optimized
