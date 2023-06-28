@@ -1,4 +1,4 @@
-I am a Aspiring Software Engineer/Developer. And, my contributions include:
+I am a Aspiring working professional. And, my contributions will include:
 
 1) Helping with the design and development of software
 2) Testing and debugging software to keep it optimized
